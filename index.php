@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <title>CES Conference</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Invitex is event and conference website template">
+    <meta name="description" content="Childhood Education Society Conference 2024">
     <meta name="author" content="">
     
     <link rel="icon" type="image/x-icon" href="images/favicon.ico">
