@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <title>CES Conference</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Childhood Education Society Conference 2024">
+    <meta name="description" content="Conference of Childhood, Education & Society">
     <meta name="author" content="">
     
     <link rel="icon" type="image/x-icon" href="images/favicon.ico">
@@ -161,7 +161,7 @@
                                 <div class="col-md-12 text-center">
                                     <div class="spacer-double"></div>
 									<div class="spacer-double"></div>
-                                    <h1 class="very-big">Childhood Education Society Conference</h1>
+                                    <h1 class="very-big">Conference of Childhood, Education & Society</h1>
                                     <div class="spacer-single"></div>
                                     <div class="subtitle s2"><span><i class="fa fa-calendar-o orange"></i>June 27th to 29th</span><span><i class="fa fa-map-marker orange"></i>Istanbul, Turkey.</span></div>
                                 </div>
