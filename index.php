@@ -4,7 +4,7 @@
 <head>
 
     <meta charset="utf-8">
-    <title>CES Conference</title>
+    <title>Conference CES</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Conference of Childhood, Education & Society">
     <meta name="author" content="">
