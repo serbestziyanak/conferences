@@ -163,7 +163,7 @@
 									<div class="spacer-double"></div>
                                     <h1 class="very-big">Childhood Education Society Conference</h1>
                                     <div class="spacer-single"></div>
-                                    <div class="subtitle s2"><span><i class="fa fa-calendar-o orange"></i>August 3rd to 7th</span><span><i class="fa fa-map-marker orange"></i>Istanbul, Turkey.</span></div>
+                                    <div class="subtitle s2"><span><i class="fa fa-calendar-o orange"></i>June 27th to 29th</span><span><i class="fa fa-map-marker orange"></i>Istanbul, Turkey.</span></div>
                                 </div>
 
                                 <div class="col-md-12 text-center">
