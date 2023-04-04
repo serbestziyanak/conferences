@@ -102,8 +102,8 @@
                         <!-- logo begin -->
                         <div id="logo">
                             <a href="">
-                                <img class="logo" src="images/ces-logo-white.png" alt="" style="height: 60px;">
-                                <img class="logo-2" src="images/ces-logo.png" alt="" style="height: 60px;">
+                                <img class="logo" src="images/ces-logo-white2.png" alt="" style="height: 60px;">
+                                <img class="logo-2" src="images/ces-logo2.png" alt="" style="height: 60px;">
                             </a>
                         </div>
                         <!-- logo close -->
